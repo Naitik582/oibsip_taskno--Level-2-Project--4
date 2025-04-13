@@ -19,7 +19,7 @@
 
 • Reviews (count)
 
-• Size (M or k)
+• Size (Mork)
 
 • Installs (count)
 
